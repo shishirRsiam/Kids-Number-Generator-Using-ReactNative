@@ -4,7 +4,7 @@
 
 A fun and interactive **random number generator** for kids! This React Native app generates a random number between **1 and 500**, converts it to text, and speaks it aloud using the **Expo Speech API**. It also includes an engaging animation to make learning numbers more fun for children.
 
-![Kids Number Generator Home Interface](App Home Interface.jpg)
+![Kids Number Generator Home Interface](App-Home-Interface.jpg)
 
 
 ## 📱 Features
