@@ -56,3 +56,6 @@
 21-03-2025 02:32:57  374  eas build -p android --profile preview
 21-03-2025 03:23:56  375  eas build -p android --profile preview
 21-03-2025 03:24:38  376  git add App-Images.jpg 
+21-03-2025 03:24:52  377  git commit -am"Add App Images"
+21-03-2025 03:25:29  378  git push
+21-03-2025 03:32:37  379  git add .
