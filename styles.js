@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
         borderColor: '#FF6347',
     },
     title: {
-        fontSize: 40,
+        fontSize: 36,
         fontWeight: 'bold',
         color: '#FF6347',
         textAlign: 'center',
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
         textShadowRadius: 10,
     },
     numberEnText: {
-        fontSize: 30,
+        fontSize: 26,
         fontWeight: 'bold',
         color: '#FF6347',
         marginBottom: 40,

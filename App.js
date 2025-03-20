@@ -61,7 +61,7 @@ const App = () => {
       </TouchableOpacity>
 
       {/* Footer */}
-      <Text style={styles.footer}>@shishirRsiam Made with 💖 for Taseen! 🌈</Text>
+      <Text style={styles.footer}>@shishirRsiam Made with 💖 for Taseen! 👨‍👧</Text>
     </View>
   );
 };
