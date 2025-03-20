@@ -37,3 +37,8 @@
 21-03-2025 01:24:46  355  eas build:configure
 21-03-2025 01:54:22  356  eas build -p android --profile preview
 21-03-2025 01:54:25  357  git add .
+21-03-2025 01:54:36  358  git commit -am"Push Main App Code"
+21-03-2025 01:54:42  359  git push
+21-03-2025 02:06:20  360  npm start
+21-03-2025 02:07:41  361  eas build:configure
+21-03-2025 02:09:14  362  git add .
