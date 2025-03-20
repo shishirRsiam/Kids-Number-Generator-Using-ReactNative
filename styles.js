@@ -86,8 +86,7 @@ const styles = StyleSheet.create({
         shadowRadius: 5,
     },
     footer: {
-        position: 'absolute',
-        bottom: 20,
+        bottom: -14,
         fontSize: 16,
         color: '#8A2BE2',
         fontWeight: 'bold',

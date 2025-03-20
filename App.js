@@ -30,7 +30,7 @@ const App = () => {
   const speakNumber = () => {
     Speech.speak(randomNumber.toString(), {
       language: 'en',
-      rate: 0.8,
+      rate: 0.65,
     });
   };
 
