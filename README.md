@@ -60,12 +60,12 @@ Scan the QR code with your **Expo Go** app to run it on your mobile device.
 ## 🛠 Project Structure
 ```
 📂 Kids-Number-Generator-Using-ReactNative
- ┣ 📜 App.js          # Main app component
- ┣ 📜 styles.js       # Stylesheet for the app
- ┣ 📜 NumberToText.js # Converts numbers to text
- ┣ 📜 package.json    # Dependencies and scripts
- ┣ 📜 App-Images.jpg  # App Home Interface
- ┣ 📜 README.md       # Documentation
+ ┣ 📜 App.js                  # Main app component
+ ┣ 📜 styles.js               # Stylesheet for the app
+ ┣ 📜 NumberToText.js         # Converts numbers to text
+ ┣ 📜 package.json            # Dependencies and scripts
+ ┣ 📜 App-Home-Interface.jpg  # App Home Interface
+ ┣ 📜 README.md               # Documentation
 ```
 
 ## 💖 Made For
