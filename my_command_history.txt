@@ -1,4 +1,39 @@
+20-03-2025 23:48:20  341  cd KidsNumberGenerator/
+20-03-2025 23:50:11  338  cd KidsNumberGenerator/
+20-03-2025 23:51:05  339  npm install react-native-tts lucide-react-native
+20-03-2025 23:51:58  340  npx react-native link react-native-tts
+20-03-2025 23:53:07  342  npx react-native run-android
+20-03-2025 23:54:29  342  npm start
+20-03-2025 23:54:33  343  npx react-native start --reset-cache
+21-03-2025 00:00:40  343  npm install react-native-tts
+21-03-2025 00:00:44  344  react-native link react-native-tts
+21-03-2025 00:05:53  346  npm install react-native-voice --save
+21-03-2025 00:06:20  347  expo install expo-speech
+21-03-2025 00:07:31  348  npm i expo-speech
+21-03-2025 00:14:32  349  npm install react-native-linear-gradient
+21-03-2025 00:17:43  344  npm start -- --reset-cache
+21-03-2025 00:44:45  347  npm start
+21-03-2025 01:05:12  349  eas status
+21-03-2025 01:05:17  350  eas
+21-03-2025 01:05:24  351  eas whoani
+21-03-2025 01:06:32  353  eas build:configure
+21-03-2025 01:10:21  354  eas build -p android --profile preview
+21-03-2025 01:10:21  354  eas build -p android --profile preview
 21-03-2025 01:15:48  340  cd KidsNumberGenerator/
 21-03-2025 01:15:51  341  git remote add origin https://github.com/shishirRsiam/Kids-Number-Generator-Using-ReactNative.git
 21-03-2025 01:15:56  342  git status
 21-03-2025 01:16:02  343  git add .
+21-03-2025 01:16:16  344  git commit -am"push App Code"
+21-03-2025 01:16:19  345  git push
+21-03-2025 01:16:31  346  git push -u origin main
+21-03-2025 01:16:58  347  git branch -M main
+21-03-2025 01:17:07  348  git push -u origin main
+21-03-2025 01:17:45  349  npm i
+21-03-2025 01:20:29  350  npm start
+21-03-2025 01:20:41  351  npm i expo-speech
+21-03-2025 01:22:16  352  npm start
+21-03-2025 01:22:40  353  eas build:configure
+21-03-2025 01:23:55  354  npm install -g eas-cli
+21-03-2025 01:24:46  355  eas build:configure
+21-03-2025 01:54:22  356  eas build -p android --profile preview
+21-03-2025 01:54:25  357  git add .
