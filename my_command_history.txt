@@ -50,3 +50,9 @@
 21-03-2025 02:15:30  368  git push
 21-03-2025 02:18:35  369  npm start
 21-03-2025 02:18:37  370  git add .
+21-03-2025 02:18:45  371  git commit -am"Push Final Code"
+21-03-2025 02:18:52  372  git push
+21-03-2025 02:19:26  373  eas build:configure
+21-03-2025 02:32:57  374  eas build -p android --profile preview
+21-03-2025 03:23:56  375  eas build -p android --profile preview
+21-03-2025 03:24:38  376  git add App-Images.jpg 

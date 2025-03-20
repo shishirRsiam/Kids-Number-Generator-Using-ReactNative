@@ -37,7 +37,7 @@ const App = () => {
   return (
     <View style={styles.container}>
       {/* Hide Status Bar */}
-      <StatusBar hidden={false} />
+      <StatusBar hidden={true} />
 
       {/* Title */}
       <View style={styles.titleContainer}>
